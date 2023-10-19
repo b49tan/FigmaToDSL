@@ -1,0 +1,8 @@
+{
+    "assets": [
+		{
+			"type":"button",
+			"value":"Title"
+		}
+    ]
+}

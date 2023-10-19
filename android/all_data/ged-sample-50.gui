@@ -1,0 +1,18 @@
+{
+	"assets": [
+		{
+			"type":"input",
+			"value":"Input Label",
+			"children":[]
+		},
+		{
+			"type": "button",
+			"value": "Title"
+		},
+		{
+			"type":"text",
+			"value":"Some random text",
+			"children":[]
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+    "assets": [
+        {
+			"type":"input",
+			"value":"Input Label"
+		}
+    ]
+}

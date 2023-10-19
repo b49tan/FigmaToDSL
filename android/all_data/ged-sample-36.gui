@@ -1,0 +1,12 @@
+{
+    "assets": [
+		{
+			"type":"text",
+			"value":"Some random text"
+		},
+		{
+			"type":"button",
+			"value":"Title"
+		}
+    ]
+}

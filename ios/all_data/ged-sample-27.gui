@@ -1,0 +1,16 @@
+{
+    "assets": [
+		{
+			"type":"button",
+			"value":"Title"
+		},
+		{
+			"type":"button",
+			"value":"Title"
+		},
+		{
+			"type":"button",
+			"value":"Title"
+		}
+    ]
+}

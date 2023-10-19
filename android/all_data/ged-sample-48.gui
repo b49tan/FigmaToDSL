@@ -1,0 +1,44 @@
+{
+	"assets": [
+		{
+			"type":"text",
+			"value":"Some random text",
+			"children":[]
+		},
+		{
+			"type":"input",
+			"value":"Input Label",
+			"children":[]
+		},
+		{
+			"type":"text",
+			"value":"Some random text",
+			"children":[]
+		},
+		{
+			"type":"text",
+			"value":"Some random text",
+			"children":[]
+		},
+		{
+			"type":"text",
+			"value":"Some random text",
+			"children":[]
+		},
+		{
+			"type":"input",
+			"value":"Input Label",
+			"children":[]
+		},
+		{
+			"type":"text",
+			"value":"Some random text",
+			"children":[]
+		},
+		{
+			"type":"text",
+			"value":"Some random text",
+			"children":[]
+		}
+	]
+}

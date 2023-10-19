@@ -1,0 +1,49 @@
+{
+	"assets": [
+		{
+			"type":"text",
+			"value":"Some random text",
+			"children":[]
+		},
+		{
+			"type": "button",
+			"value": "Title"
+		},
+		{
+			"type":"text",
+			"value":"Some random text",
+			"children":[]
+		},
+		{
+			"type": "button",
+			"value": "Title"
+		},
+		{
+			"type":"text",
+			"value":"Some random text",
+			"children":[]
+		},
+		{
+			"type": "button",
+			"value": "Title"
+		},
+		{
+			"type":"text",
+			"value":"Some random text",
+			"children":[]
+		},
+		{
+			"type": "button",
+			"value": "Title"
+		},
+		{
+			"type":"text",
+			"value":"Some random text",
+			"children":[]
+		},
+		{
+			"type": "button",
+			"value": "Title"
+		}
+	]
+}

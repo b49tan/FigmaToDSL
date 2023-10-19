@@ -1,0 +1,28 @@
+{
+    "assets": [
+		{
+			"type":"text",
+			"value":"Some random text"
+		},
+		{
+			"type":"text",
+			"value":"Some random text"
+		},
+		{
+			"type":"text",
+			"value":"Some random text"
+		},
+		{
+			"type":"text",
+			"value":"Some random text"
+		},
+		{
+			"type":"text",
+			"value":"Some random text"
+		},
+		{
+			"type":"text",
+			"value":"Some random text"
+		}
+    ]
+}

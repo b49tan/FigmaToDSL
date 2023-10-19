@@ -1,0 +1,29 @@
+{
+	"assets": [
+		{
+			"type":"input",
+			"value":"Input Label",
+			"children":[]
+		},
+		{
+			"type":"input",
+			"value":"Input Label",
+			"children":[]
+		},
+		{
+			"type":"input",
+			"value":"Input Label",
+			"children":[]
+		},
+		{
+			"type":"input",
+			"value":"Input Label",
+			"children":[]
+		},
+		{
+			"type":"input",
+			"value":"Input Label",
+			"children":[]
+		}
+	]
+}

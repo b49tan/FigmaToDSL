@@ -1,0 +1,16 @@
+{
+    "assets": [
+        {
+			"type":"input",
+			"value":"Input Label"
+		},
+        {
+			"type":"text",
+			"value":"Some random text"
+		},
+		{
+			"type":"button",
+			"value":"Title"
+		}
+    ]
+}
